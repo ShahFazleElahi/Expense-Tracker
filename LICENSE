@@ -19,3 +19,12 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+
+
+
+### 5. **How the Project Works**
+
+1. **Add Expense:** Select option `1` from the menu to add a new expense. You will enter the amount, category (like Food, Transport), and an optional description.
+2. **View Expenses:** Select option `2` to view all the expenses you’ve added. The program will also show the total amount spent.
+3. **Exit the App:** Select option `3` to exit the application.
